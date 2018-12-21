@@ -1,4 +1,4 @@
-# IceWaddling
+# Ice Waddling
 Video game made as a Christmas gift.
 
 # HOW TO RUN
